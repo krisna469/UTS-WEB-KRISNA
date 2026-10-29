@@ -1,0 +1,15 @@
+/* Custom Stylesheet Extension */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Transisi Halus Perpindahan Dark Mode */
+body, header, section, article, div, input, select, textarea {
+    transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+}
+
+/* Style Khusus Tombol Filter Proyek yang Aktif */
+.filter-btn.active-btn {
+    background-color: #2563EB !important; /* Tailwind Blue-600 */
+    color: #FFFFFF !important;
+}
