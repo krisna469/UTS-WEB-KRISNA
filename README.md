@@ -2,7 +2,7 @@
 
 Portofolio interaktif untuk UTS Pemrograman Web, Program Studi Sistem Informasi, UNP Kediri.
 
-**Live:** https://USERNAME.github.io/UTS-WEB-NAMA/
+**Live:** https://krisna469.github.io/UTS-WEB-KRISNA/
 
 ## Fitur
 - Struktur HTML5 semantik (header, nav, main, section, article, aside, footer) dengan meta tag lengkap.
