@@ -23,4 +23,4 @@ UTS-WEB-NAMA/
 ```
 
 ## Identitas
-Nama: NAMA LENGKAP, NPM: 0000000000
+Nama: krisna pratama wijaya kusuma dinata, NPM: 2513020014
